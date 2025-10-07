@@ -1,0 +1,16 @@
+{
+  "id": "5d3547f6-07df-413a-a8d5-86d98d05559e",
+  "name": "Crypto Price Monitoring Dashboard Creation",
+  "user_id": "741055b9-c7d7-4e31-98a6-b3f15d764c3e",
+  "created_at": "2025-10-05T23:32:50.173824+00:00",
+  "updated_at": "2025-10-05T23:32:50.173835+00:00",
+  "status": "ready",
+  "github": {
+    "repository_url": "https://github.com/mtomr3/Crypto-Price-Monitoring-Dashboard-Creation",
+    "repository_name": "Crypto-Price-Monitoring-Dashboard-Creation",
+    "owner": "mtomr3",
+    "created_at": "2025-10-07T03:02:43Z",
+    "last_commit_sha": "cdcb80fac1a69036b8cc14b529351753793a8d1c",
+    "published_at": "2025-10-07T03:02:47.127906+00:00"
+  }
+}
